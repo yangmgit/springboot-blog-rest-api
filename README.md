@@ -7,3 +7,8 @@ http://apringbootblog-env.eba-tkdagthw.us-east-2.elasticbeanstalk.com/swagger-ui
   <li>test user account: test@gmail.com</li>
   <li>test pw: password</li>
 </ul>
+
+<ol>
+  <li>Sigin by using test account or sign up with a new account</li>
+  <li>Copy and paste the access token to login or authorize yourself</li>
+</ol>
